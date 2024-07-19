@@ -1,2 +1,0 @@
-# Jpet-Store
-This repository
