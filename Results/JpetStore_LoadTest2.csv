@@ -1,0 +1,47 @@
+Transactions,SLA,# Samples/TPH,Average,90% Line,95% Line,Min,Max,Error %,Throughput Per Sec
+SC01_TR01_Jpet_Store_Launch,3,230,1.75,1.499,1.544,0.868,22.525,0.00%,0.06408
+SC01_TR02_Jpet_Store_Login,3,230,2.123,2.197,2.563,1.737,6.494,0.44%,0.06409
+SC01_TR03_Jpet_Store_Click on Fish,3,228,0.525,0.555,0.569,0.484,1.024,0.00%,0.06434
+SC01_TR04_Jpet_Store_Click onAngel Fish,3,228,0.536,0.568,0.597,0.491,1.116,0.00%,0.06434
+SC01_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,3,228,1.58,1.653,1.955,1.447,2.538,0.00%,0.06421
+SC01_TR06_Jpet_Store_Proceed to Checkout,3,228,0.527,0.56,0.592,0.484,0.67,0.00%,0.06434
+SC01_TR07_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,3,228,1.392,1.489,1.546,0,22.605,0.00%,0.06442
+SC01_TR08_Jpet_Store_Confirm Info and Continue,3,227,1.972,1.988,2.479,0,23.52,1.32%,0.06427
+SC01_TR09_Jpet_Store_SignOut,3,220,1.567,1.647,1.691,1.444,2.127,0.00%,0.06286
+SC02_TR01_Jpet_Store_Launch,3,232,1.561,1.493,1.591,0.832,22.633,0.00%,0.06465
+SC02_TR02_Jpet_Store_Login,3,232,2.1,2.171,2.196,1.918,6.537,0.00%,0.06464
+SC02_TR03_Jpet_Store_Click on Dogs,3,231,0.522,0.56,0.578,0,0.724,0.43%,0.06478
+SC02_TR04_Jpet_Store_Click on BullDog,3,229,0.536,0.573,0.61,0.226,1.027,0.44%,0.06422
+SC02_TR05_Jpet_Store_Click Add to Cart Male Adult BullDog,3,228,1.65,1.614,1.728,0,23.452,0.00%,0.06407
+SC02_TR06_Jpet_Store_Proceed to Checkout,3,227,0.522,0.558,0.581,0,1.043,0.00%,0.06433
+SC02_TR07_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,3,225,1.389,1.497,1.554,0.487,22.52,0.00%,0.06376
+SC02_TR08_Jpet_Store_Confirm Info and Continue,3,225,1.787,2.009,2.136,0.544,23.57,0.44%,0.06375
+SC02_TR09_Jpet_Store_SignOut,3,223,1.549,1.641,1.676,0.214,2.151,0.45%,0.06373
+SC03_TR01_Jpet_Store_Launch,3,232,1.605,1.516,1.59,0.861,22.529,0.00%,0.06443
+SC03_TR02_Jpet_Store_Login,3,231,2.105,2.171,2.22,1.932,6.561,0.00%,0.06436
+SC03_TR03_Jpet_Store_Click on Reptiles,3,230,0.521,0.549,0.564,0,1.037,0.00%,0.06451
+SC03_TR04_Jpet_Store_Click on Rattlesnake,3,228,0.535,0.569,0.598,0.483,1.119,0.00%,0.06395
+SC03_TR05_Jpet_Store_Click Add to Cart Venomless Rattlesnake,3,228,1.638,1.619,1.679,0,23.478,0.00%,0.06428
+SC03_TR06_Jpet_Store_Proceed to Checkout,3,227,0.525,0.548,0.572,0.483,1.054,0.00%,0.06413
+SC03_TR07_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,3,227,1.101,1.487,1.532,0.482,22.455,0.00%,0.06411
+SC03_TR08_Jpet_Store_Confirm Info and Continue,3,226,1.791,2.033,2.444,0.563,23.512,0.44%,0.06429
+SC03_TR09_Jpet_Store_SignOut,3,225,1.654,1.639,1.669,1.32,23.485,0.44%,0.06408
+SC04_TR01_Jpet_Store_Launch,3,232,1.463,1.487,1.537,0.853,22.572,0.00%,0.06453
+SC04_TR02_Jpet_Store_Login,3,232,2.12,2.163,2.205,0,13.436,0.00%,0.06457
+SC04_TR03_Jpet_Store_Click on Cats,3,230,0.519,0.545,0.556,0,0.925,0.00%,0.06449
+SC04_TR04_Jpet_Store_Click on Manx,3,229,0.536,0.568,0.6,0.485,1.012,0.00%,0.06421
+SC04_TR05_Jpet_Store_Click Add to Cart Tailless Manx,3,229,1.544,1.608,1.639,0,2.511,0.00%,0.06478
+SC04_TR06_Jpet_Store_Proceed to Checkout,3,228,0.53,0.56,0.602,0.477,1.112,0.00%,0.06462
+SC04_TR07_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,3,228,1.391,1.484,1.55,0.478,22.551,0.00%,0.06462
+SC04_TR08_Jpet_Store_Confirm Info and Continue,3,228,1.676,2.011,2.129,0.516,8.034,1.32%,0.0646
+SC04_TR09_Jpet_Store_SignOut,3,224,1.559,1.644,1.667,0,2.17,0.00%,0.0639
+SC05_TR01_Jpet_Store_Launch,3,231,1.574,1.484,1.561,0,22.65,0.00%,0.06423
+SC05_TR02_Jpet_Store_Login,3,230,2.078,2.186,2.247,0,2.703,0.00%,0.06453
+SC05_TR03_Jpet_Store_Click on Birds,3,229,0.523,0.547,0.577,0.484,1.007,0.00%,0.0645
+SC05_TR04_Jpet_Store_Click on Amazon Parrot,3,229,0.538,0.58,0.619,0.485,1.091,0.00%,0.0645
+SC05_TR05_Jpet_Store_Click Add to Cart Adult Male Amazon Parrot,3,229,1.554,1.605,1.741,1.432,2.466,0.00%,0.06437
+SC05_TR06_Jpet_Store_Proceed to Checkout,3,229,0.532,0.572,0.6,0,2.039,0.00%,0.0646
+SC05_TR07_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,3,228,1.509,1.503,1.538,0,22.54,0.44%,0.0644
+SC05_TR08_Jpet_Store_Confirm Info and Continue,3,225,1.853,2.037,2.402,0,23.634,0.89%,0.06396
+SC05_TR09_Jpet_Store_SignOut,3,222,1.551,1.629,1.655,1.444,2.137,0.00%,0.06318
+TOTAL,,10265,1.291,2.027,2.102,0,23.634,0.16%,2.85082

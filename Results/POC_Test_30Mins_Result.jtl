@@ -1,0 +1,611 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1720334218291,1701,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5989,672,5,5,null,0,30005,592
+1720334248296,1701,/-12,200,OK,Thread Group 1-1,text,true,,5989,672,5,5,https://jpetstore.aspectran.com/,1701,0,592
+1720334223292,1830,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5973,672,5,5,null,0,30004,417
+1720334253295,1830,/-12,200,OK,Thread Group 1-2,text,true,,5973,672,5,5,https://jpetstore.aspectran.com/,1830,0,417
+1720334228292,1742,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5972,672,5,5,null,0,30006,458
+1720334258298,1742,/-12,200,OK,Thread Group 1-3,text,true,,5972,672,5,5,https://jpetstore.aspectran.com/,1742,0,458
+1720334233293,1860,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5978,672,5,5,null,0,30007,440
+1720334263300,1860,/-12,200,OK,Thread Group 1-4,text,true,,5978,672,5,5,https://jpetstore.aspectran.com/,1860,0,440
+1720334238315,1967,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5975,672,5,5,null,0,29998,441
+1720334268313,1967,/-12,200,OK,Thread Group 1-5,text,true,,5975,672,5,5,https://jpetstore.aspectran.com/,1967,0,441
+1720334249999,3785,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,18423,3514,5,5,null,0,90021,431
+1720334280008,673,/account/signonForm-17,200,OK,Thread Group 1-1,text,true,,5689,795,5,5,https://jpetstore.aspectran.com/account/signonForm,673,0,0
+1720334310685,2288,/account/signon-18,200,OK,Thread Group 1-1,text,true,,6661,1898,5,5,https://jpetstore.aspectran.com/,1783,0,431
+1720334310685,1783,/account/signon-18-0,302,Found,Thread Group 1-1,,true,,593,987,5,5,https://jpetstore.aspectran.com/account/signon,1783,0,431
+1720334312468,505,/account/signon-18-1,200,OK,Thread Group 1-1,text,true,,6068,911,5,5,https://jpetstore.aspectran.com/,505,0,0
+1720334342980,824,/-19,200,OK,Thread Group 1-1,text,true,,6073,821,5,5,https://jpetstore.aspectran.com/,824,0,0
+1720334255127,3725,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,18411,3518,5,5,null,0,89995,462
+1720334285118,574,/account/signonForm-17,200,OK,Thread Group 1-2,text,true,,5687,796,5,5,https://jpetstore.aspectran.com/account/signonForm,574,0,0
+1720334315694,2525,/account/signon-18,200,OK,Thread Group 1-2,text,true,,6653,1900,5,5,https://jpetstore.aspectran.com/,1279,0,462
+1720334315694,1279,/account/signon-18-0,302,Found,Thread Group 1-2,,true,,589,988,5,5,https://jpetstore.aspectran.com/account/signon,1279,0,462
+1720334316973,1246,/account/signon-18-1,200,OK,Thread Group 1-2,text,true,,6064,912,5,5,https://jpetstore.aspectran.com/,1246,0,0
+1720334348219,626,/-19,200,OK,Thread Group 1-2,text,true,,6071,822,5,5,https://jpetstore.aspectran.com/,626,0,0
+1720334260040,3285,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,18421,3518,5,5,null,0,90000,404
+1720334290043,922,/account/signonForm-17,200,OK,Thread Group 1-3,text,true,,5687,796,5,5,https://jpetstore.aspectran.com/account/signonForm,922,0,0
+1720334320966,1641,/account/signon-18,200,OK,Thread Group 1-3,text,true,,6664,1900,5,5,https://jpetstore.aspectran.com/,993,0,404
+1720334320966,993,/account/signon-18-0,302,Found,Thread Group 1-3,,true,,595,988,5,5,https://jpetstore.aspectran.com/account/signon,993,0,404
+1720334321959,648,/account/signon-18-1,200,OK,Thread Group 1-3,text,true,,6069,912,5,5,https://jpetstore.aspectran.com/,648,0,0
+1720334352602,722,/-19,200,OK,Thread Group 1-3,text,true,,6070,822,5,5,https://jpetstore.aspectran.com/,722,0,0
+1720334265160,3707,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,18457,3522,5,5,null,0,90011,423
+1720334295151,917,/account/signonForm-17,200,OK,Thread Group 1-4,text,true,,5680,797,5,5,https://jpetstore.aspectran.com/account/signonForm,917,0,0
+1720334326083,2141,/account/signon-18,200,OK,Thread Group 1-4,text,true,,6663,1902,5,5,https://jpetstore.aspectran.com/,1640,0,423
+1720334326083,1640,/account/signon-18-0,302,Found,Thread Group 1-4,,true,,593,989,5,5,https://jpetstore.aspectran.com/account/signon,1640,0,423
+1720334327724,500,/account/signon-18-1,200,OK,Thread Group 1-4,text,true,,6070,913,5,5,https://jpetstore.aspectran.com/,500,0,0
+1720334358228,649,/-19,200,OK,Thread Group 1-4,text,true,,6114,823,5,5,https://jpetstore.aspectran.com/,649,0,0
+1720334270281,3044,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,18513,3518,5,5,null,0,90013,406
+1720334300282,924,/account/signonForm-17,200,OK,Thread Group 1-5,text,true,,5691,796,5,5,https://jpetstore.aspectran.com/account/signonForm,924,0,0
+1720334331209,1522,/account/signon-18,200,OK,Thread Group 1-5,text,true,,6705,1900,5,5,https://jpetstore.aspectran.com/,997,0,406
+1720334331209,997,/account/signon-18-0,302,Found,Thread Group 1-5,,true,,593,988,5,5,https://jpetstore.aspectran.com/account/signon,997,0,406
+1720334332207,524,/account/signon-18-1,200,OK,Thread Group 1-5,text,true,,6112,912,5,5,https://jpetstore.aspectran.com/,524,0,0
+1720334362741,598,/-19,200,OK,Thread Group 1-5,text,true,,6117,822,5,5,https://jpetstore.aspectran.com/,598,0,0
+1720334343805,1348,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5693,792,5,5,null,0,31012,419
+1720334374817,1348,/categories/FISH-25,200,OK,Thread Group 1-1,text,true,,5693,792,5,5,https://jpetstore.aspectran.com/categories/FISH,1348,0,419
+1720334348847,1584,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5684,793,5,5,null,0,31004,426
+1720334379851,1584,/categories/FISH-25,200,OK,Thread Group 1-2,text,true,,5684,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1584,0,426
+1720334353325,1015,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5688,793,5,5,null,0,31001,447
+1720334384326,1015,/categories/FISH-25,200,OK,Thread Group 1-3,text,true,,5688,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1015,0,447
+1720334358878,924,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5693,794,5,5,null,0,30998,405
+1720334389877,924,/categories/FISH-25,200,OK,Thread Group 1-4,text,true,,5693,794,5,5,https://jpetstore.aspectran.com/categories/FISH,924,0,405
+1720334363340,1294,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5687,793,5,5,null,0,30989,459
+1720334394327,1294,/categories/FISH-25,200,OK,Thread Group 1-5,text,true,,5687,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1294,0,459
+1720334376166,865,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5773,809,5,5,null,0,31011,0
+1720334407176,865,/products/FI-SW-01-26,200,OK,Thread Group 1-1,text,true,,5773,809,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,865,0,0
+1720334381436,593,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5785,810,5,5,null,0,31013,0
+1720334412448,593,/products/FI-SW-01-26,200,OK,Thread Group 1-2,text,true,,5785,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,593,0,0
+1720334385342,551,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5769,810,5,5,null,0,30998,0
+1720334416340,551,/products/FI-SW-01-26,200,OK,Thread Group 1-3,text,true,,5769,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,551,0,0
+1720334390802,683,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5768,811,5,5,null,0,31002,0
+1720334421802,683,/products/FI-SW-01-26,200,OK,Thread Group 1-4,text,true,,5768,811,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,683,0,0
+1720334395622,656,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5763,810,5,5,null,0,31011,0
+1720334426633,656,/products/FI-SW-01-26,200,OK,Thread Group 1-5,text,true,,5763,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,656,0,0
+1720334408042,3348,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12843,2439,5,5,null,0,61997,428
+1720334439038,2667,/cart/addItemToCart-29,200,OK,Thread Group 1-1,text,true,,6722,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1843,0,428
+1720334439038,1843,/cart/addItemToCart-29-0,302,Found,Thread Group 1-1,,true,,606,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1843,0,428
+1720334440881,824,/cart/addItemToCart-29-1,200,OK,Thread Group 1-1,text,true,,6116,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,824,0,0
+1720334472705,681,/cart/viewCart-30,200,OK,Thread Group 1-1,text,true,,6121,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,681,0,0
+1720334413043,2750,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12887,2442,5,5,null,0,62010,457
+1720334444042,2165,/cart/addItemToCart-29,200,OK,Thread Group 1-2,text,true,,6758,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1307,0,457
+1720334444042,1307,/cart/addItemToCart-29-0,302,Found,Thread Group 1-2,,true,,610,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1307,0,457
+1720334445350,857,/cart/addItemToCart-29-1,200,OK,Thread Group 1-2,text,true,,6148,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,857,0,0
+1720334477218,585,/cart/viewCart-30,200,OK,Thread Group 1-2,text,true,,6129,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,585,0,0
+1720334422486,2429,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12852,2445,5,5,null,0,62015,472
+1720334453489,1837,/cart/addItemToCart-29,200,OK,Thread Group 1-4,text,true,,6739,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,1290,0,472
+1720334453489,1290,/cart/addItemToCart-29-0,302,Found,Thread Group 1-4,,true,,612,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1290,0,472
+1720334454778,548,/cart/addItemToCart-29-1,200,OK,Thread Group 1-4,text,true,,6127,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,548,0,0
+1720334486338,592,/cart/viewCart-30,200,OK,Thread Group 1-4,text,true,,6113,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,591,0,0
+1720334427290,2538,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,12902,2442,5,5,null,0,62011,439
+1720334458299,1952,/cart/addItemToCart-29,200,OK,Thread Group 1-5,text,true,,6739,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1424,0,439
+1720334458299,1424,/cart/addItemToCart-29-0,302,Found,Thread Group 1-5,,true,,606,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1424,0,439
+1720334459723,528,/cart/addItemToCart-29-1,200,OK,Thread Group 1-5,text,true,,6133,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,528,0,0
+1720334491252,586,/cart/viewCart-30,200,OK,Thread Group 1-5,text,true,,6163,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,586,0,0
+1720334416892,21191,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12857,2442,5,5,null,0,61991,18202
+1720334447883,20165,/cart/addItemToCart-29,200,OK,Thread Group 1-3,text,true,,6739,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,19623,0,18202
+1720334447883,19623,/cart/addItemToCart-29-0,302,Found,Thread Group 1-3,,true,,610,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,19623,0,18202
+1720334467507,541,/cart/addItemToCart-29-1,200,OK,Thread Group 1-3,text,true,,6129,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,541,0,0
+1720334499049,1026,/cart/viewCart-30,200,OK,Thread Group 1-3,text,true,,6118,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,1026,0,0
+1720334473386,1627,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5749,805,5,5,null,0,31000,425
+1720334504386,1627,/categories/DOGS-31,200,OK,Thread Group 1-1,text,true,,5749,805,5,5,https://jpetstore.aspectran.com/categories/DOGS,1627,0,425
+1720334477804,1703,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5748,806,5,5,null,0,31010,417
+1720334508814,1703,/categories/DOGS-31,200,OK,Thread Group 1-2,text,true,,5748,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1703,0,417
+1720334486930,1891,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5787,807,5,5,null,0,31010,723
+1720334517939,1891,/categories/DOGS-31,200,OK,Thread Group 1-4,text,true,,5787,807,5,5,https://jpetstore.aspectran.com/categories/DOGS,1891,0,723
+1720334491839,1564,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5745,806,5,5,null,0,31007,458
+1720334522845,1564,/categories/DOGS-31,200,OK,Thread Group 1-5,text,true,,5745,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1564,0,458
+1720334500076,1135,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5744,806,5,5,null,0,31015,391
+1720334531089,1135,/categories/DOGS-31,200,OK,Thread Group 1-3,text,true,,5744,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1135,0,391
+1720334506014,588,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5777,809,5,5,null,0,30995,0
+1720334537010,588,/products/K9-BD-01-34,200,OK,Thread Group 1-1,text,true,,5777,809,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,588,0,0
+1720334510519,610,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5787,810,5,5,null,0,30999,0
+1720334541518,610,/products/K9-BD-01-34,200,OK,Thread Group 1-2,text,true,,5787,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,610,0,0
+1720334519831,684,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5784,811,5,5,null,0,30999,0
+1720334550830,684,/products/K9-BD-01-34,200,OK,Thread Group 1-4,text,true,,5784,811,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,684,0,0
+1720334524410,802,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5775,810,5,5,null,0,31005,0
+1720334555415,802,/products/K9-BD-01-34,200,OK,Thread Group 1-5,text,true,,5775,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,802,0,0
+1720334532225,711,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5779,810,5,5,null,0,30992,0
+1720334563217,711,/products/K9-BD-01-34,200,OK,Thread Group 1-3,text,true,,5779,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,710,0,0
+1720334537598,2513,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13012,2439,5,5,null,0,62004,486
+1720334568597,1608,/cart/addItemToCart-38,200,OK,Thread Group 1-1,text,true,,6807,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1054,0,486
+1720334568597,1054,/cart/addItemToCart-38-0,302,Found,Thread Group 1-1,,true,,602,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1054,0,486
+1720334569650,555,/cart/addItemToCart-38-1,200,OK,Thread Group 1-1,text,true,,6205,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,555,0,0
+1720334601209,905,/cart/viewCart-41,200,OK,Thread Group 1-1,text,true,,6205,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,905,0,0
+1720334542129,3109,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13019,2442,5,5,null,0,61994,416
+1720334573124,2212,/cart/addItemToCart-38,200,OK,Thread Group 1-2,text,true,,6808,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1699,0,416
+1720334573124,1699,/cart/addItemToCart-38-0,302,Found,Thread Group 1-2,,true,,604,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1699,0,416
+1720334574824,512,/cart/addItemToCart-38-1,200,OK,Thread Group 1-2,text,true,,6204,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,512,0,0
+1720334606333,897,/cart/viewCart-41,200,OK,Thread Group 1-2,text,true,,6211,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,897,0,0
+1720334551515,2257,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13014,2445,5,5,null,0,62017,441
+1720334582520,1506,/cart/addItemToCart-38,200,OK,Thread Group 1-4,text,true,,6809,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,985,0,441
+1720334582520,985,/cart/addItemToCart-38-0,302,Found,Thread Group 1-4,,true,,602,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,985,0,441
+1720334583506,520,/cart/addItemToCart-38-1,200,OK,Thread Group 1-4,text,true,,6207,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,520,0,0
+1720334615037,751,/cart/viewCart-41,200,OK,Thread Group 1-4,text,true,,6205,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,751,0,0
+1720334556218,2972,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13031,2442,5,5,null,0,61998,399
+1720334587218,2283,/cart/addItemToCart-38,200,OK,Thread Group 1-5,text,true,,6825,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1739,0,399
+1720334587218,1739,/cart/addItemToCart-38-0,302,Found,Thread Group 1-5,,true,,608,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1739,0,399
+1720334588957,544,/cart/addItemToCart-38-1,200,OK,Thread Group 1-5,text,true,,6217,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,544,0,0
+1720334620497,689,/cart/viewCart-41,200,OK,Thread Group 1-5,text,true,,6206,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,689,0,0
+1720334563929,2921,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13040,2442,5,5,null,0,62018,423
+1720334594943,2285,/cart/addItemToCart-38,200,OK,Thread Group 1-3,text,true,,6806,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1408,0,423
+1720334594943,1408,/cart/addItemToCart-38-0,302,Found,Thread Group 1-3,,true,,600,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1408,0,423
+1720334596352,876,/cart/addItemToCart-38-1,200,OK,Thread Group 1-3,text,true,,6206,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,876,0,0
+1720334628232,636,/cart/viewCart-41,200,OK,Thread Group 1-3,text,true,,6234,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,636,0,0
+1720334602115,1973,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,6128,808,5,5,null,0,31008,417
+1720334633123,1973,/order/newOrderForm-43,200,OK,Thread Group 1-1,text,true,,6128,808,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1973,0,417
+1720334607232,2140,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,6129,809,5,5,null,0,30995,420
+1720334638228,2140,/order/newOrderForm-43,200,OK,Thread Group 1-2,text,true,,6129,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,2140,0,420
+1720334615789,1768,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,6127,810,5,5,null,0,31000,464
+1720334646789,1768,/order/newOrderForm-43,200,OK,Thread Group 1-4,text,true,,6127,810,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1767,0,464
+1720334621187,1698,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,6128,809,5,5,null,0,30998,401
+1720334652185,1698,/order/newOrderForm-43,200,OK,Thread Group 1-5,text,true,,6128,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1697,0,401
+1720334628868,1792,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,6128,809,5,5,null,0,31008,401
+1720334659876,1792,/order/newOrderForm-43,200,OK,Thread Group 1-3,text,true,,6128,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1792,0,401
+1720334635096,900,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5948,1207,5,5,null,0,30996,0
+1720334666092,900,/order/newOrder-49,200,OK,Thread Group 1-1,text,true,,5948,1207,5,5,https://jpetstore.aspectran.com/order/newOrder,899,0,0
+1720334640368,689,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5987,1208,5,5,null,0,31000,0
+1720334671368,689,/order/newOrder-49,200,OK,Thread Group 1-2,text,true,,5987,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,689,0,0
+1720334648557,547,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5949,1209,5,5,null,0,31006,0
+1720334679563,547,/order/newOrder-49,200,OK,Thread Group 1-4,text,true,,5949,1209,5,5,https://jpetstore.aspectran.com/order/newOrder,547,0,0
+1720334653883,595,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5999,1208,5,5,null,0,30999,0
+1720334684882,595,/order/newOrder-49,200,OK,Thread Group 1-5,text,true,,5999,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,595,0,0
+1720334661668,592,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5947,1208,5,5,null,0,31001,0
+1720334692669,592,/order/newOrder-49,200,OK,Thread Group 1-3,text,true,,5947,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,592,0,0
+1720334666993,3989,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13227,2771,5,5,null,0,64009,463
+1720334699000,2910,/order/submitOrder-50,200,OK,Thread Group 1-1,text,true,,6918,1910,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30048&submitted=true,2087,0,463
+1720334699000,2087,/order/submitOrder-50-0,302,Found,Thread Group 1-1,,true,,639,959,5,5,https://jpetstore.aspectran.com/order/submitOrder,2087,0,463
+1720334701087,823,/order/submitOrder-50-1,200,OK,Thread Group 1-1,text,true,,6279,951,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30048&submitted=true,823,0,0
+1720334733910,1079,/order/viewOrder-51,200,OK,Thread Group 1-1,text,true,,6309,861,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30048&submitted=true,1079,0,0
+1720334672059,2352,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13225,2774,5,5,null,0,63991,427
+1720334704060,1596,/order/submitOrder-50,200,OK,Thread Group 1-2,text,true,,6922,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30049&submitted=true,957,0,427
+1720334704060,957,/order/submitOrder-50-0,302,Found,Thread Group 1-2,,true,,649,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,957,0,427
+1720334705019,637,/order/submitOrder-50-1,200,OK,Thread Group 1-2,text,true,,6273,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30049&submitted=true,637,0,0
+1720334737647,756,/order/viewOrder-51,200,OK,Thread Group 1-2,text,true,,6303,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30049&submitted=true,756,0,0
+1720334680110,2954,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13193,2777,5,5,null,0,64018,446
+1720334712116,2089,/order/submitOrder-50,200,OK,Thread Group 1-4,text,true,,6914,1914,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30050&submitted=true,1571,0,446
+1720334712116,1571,/order/submitOrder-50-0,302,Found,Thread Group 1-4,,true,,639,961,5,5,https://jpetstore.aspectran.com/order/submitOrder,1571,0,446
+1720334713688,517,/order/submitOrder-50-1,200,OK,Thread Group 1-4,text,true,,6275,953,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30050&submitted=true,517,0,0
+1720334746218,865,/order/viewOrder-51,200,OK,Thread Group 1-4,text,true,,6279,863,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30050&submitted=true,864,0,0
+1720334685477,3198,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13232,2774,5,5,null,0,64023,421
+1720334717498,2600,/order/submitOrder-50,200,OK,Thread Group 1-5,text,true,,6917,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30051&submitted=true,2021,0,421
+1720334717498,2021,/order/submitOrder-50-0,302,Found,Thread Group 1-5,,true,,641,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,2021,0,421
+1720334719520,578,/order/submitOrder-50-1,200,OK,Thread Group 1-5,text,true,,6276,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30051&submitted=true,578,0,0
+1720334752100,598,/order/viewOrder-51,200,OK,Thread Group 1-5,text,true,,6315,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30051&submitted=true,598,0,0
+1720334693261,2487,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13184,2774,5,5,null,0,64020,439
+1720334725269,1726,/order/submitOrder-50,200,OK,Thread Group 1-3,text,true,,6906,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30052&submitted=true,1180,0,439
+1720334725269,1180,/order/submitOrder-50-0,302,Found,Thread Group 1-3,,true,,635,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,1180,0,439
+1720334726450,545,/order/submitOrder-50-1,200,OK,Thread Group 1-3,text,true,,6271,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30052&submitted=true,545,0,0
+1720334759007,761,/order/viewOrder-51,200,OK,Thread Group 1-3,text,true,,6278,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30052&submitted=true,761,0,0
+1720334734992,2496,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12449,2478,5,5,null,0,60010,422
+1720334764989,1852,/account/signoff-52,200,OK,Thread Group 1-1,text,true,,6574,1657,5,5,https://jpetstore.aspectran.com/,1329,0,422
+1720334764989,1329,/account/signoff-52-0,302,Found,Thread Group 1-1,,true,,601,836,5,5,https://jpetstore.aspectran.com/account/signoff,1329,0,422
+1720334766318,523,/account/signoff-52-1,200,OK,Thread Group 1-1,text,true,,5973,821,5,5,https://jpetstore.aspectran.com/,522,0,0
+1720334796852,644,/-53,200,OK,Thread Group 1-1,text,true,,5875,821,5,5,https://jpetstore.aspectran.com/,644,0,0
+1720334738404,2769,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12448,2481,5,5,null,0,59991,450
+1720334768390,2136,/account/signoff-52,200,OK,Thread Group 1-2,text,true,,6566,1659,5,5,https://jpetstore.aspectran.com/,1614,0,450
+1720334768390,1614,/account/signoff-52-0,302,Found,Thread Group 1-2,,true,,591,837,5,5,https://jpetstore.aspectran.com/account/signoff,1614,0,450
+1720334770005,521,/account/signoff-52-1,200,OK,Thread Group 1-2,text,true,,5975,822,5,5,https://jpetstore.aspectran.com/,521,0,0
+1720334800530,633,/-53,200,OK,Thread Group 1-2,text,true,,5882,822,5,5,https://jpetstore.aspectran.com/,633,0,0
+1720334747083,2653,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12451,2482,5,5,null,0,60005,413
+1720334777075,1757,/account/signoff-52,200,OK,Thread Group 1-4,text,true,,6571,1661,5,5,https://jpetstore.aspectran.com/,1214,0,413
+1720334777075,1214,/account/signoff-52-0,302,Found,Thread Group 1-4,,true,,591,838,5,5,https://jpetstore.aspectran.com/account/signoff,1214,0,413
+1720334778290,542,/account/signoff-52-1,200,OK,Thread Group 1-4,text,true,,5980,823,5,5,https://jpetstore.aspectran.com/,542,0,0
+1720334808844,896,/-53,200,OK,Thread Group 1-4,text,true,,5880,821,5,5,https://jpetstore.aspectran.com/,896,0,0
+1720334752698,2725,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,12562,2480,5,5,null,0,59994,443
+1720334782695,2176,/account/signoff-52,200,OK,Thread Group 1-5,text,true,,6624,1659,5,5,https://jpetstore.aspectran.com/,1668,0,443
+1720334782695,1668,/account/signoff-52-0,302,Found,Thread Group 1-5,,true,,591,837,5,5,https://jpetstore.aspectran.com/account/signoff,1668,0,443
+1720334784364,507,/account/signoff-52-1,200,OK,Thread Group 1-5,text,true,,6033,822,5,5,https://jpetstore.aspectran.com/,507,0,0
+1720334814869,549,/-53,200,OK,Thread Group 1-5,text,true,,5938,821,5,5,https://jpetstore.aspectran.com/,549,0,0
+1720334797497,1483,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5970,672,5,5,null,0,30000,796
+1720334827497,1483,/-12,200,OK,Thread Group 1-1,text,true,,5970,672,5,5,https://jpetstore.aspectran.com/,1483,0,796
+1720334801165,1716,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,6034,672,5,5,null,0,30003,452
+1720334831168,1716,/-12,200,OK,Thread Group 1-2,text,true,,6034,672,5,5,https://jpetstore.aspectran.com/,1716,0,452
+1720334759768,21030,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12500,2481,5,5,null,0,60003,18825
+1720334789776,20480,/account/signoff-52,200,OK,Thread Group 1-3,text,true,,6571,1659,5,5,https://jpetstore.aspectran.com/,19963,0,18825
+1720334789776,19963,/account/signoff-52-0,302,Found,Thread Group 1-3,,true,,595,837,5,5,https://jpetstore.aspectran.com/account/signoff,19963,0,18825
+1720334809739,517,/account/signoff-52-1,200,OK,Thread Group 1-3,text,true,,5976,822,5,5,https://jpetstore.aspectran.com/,517,0,0
+1720334840251,550,/-53,200,OK,Thread Group 1-3,text,true,,5929,822,5,5,https://jpetstore.aspectran.com/,550,0,0
+1720334809741,1960,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5982,672,5,5,null,0,29989,585
+1720334839730,1960,/-12,200,OK,Thread Group 1-4,text,true,,5982,672,5,5,https://jpetstore.aspectran.com/,1959,0,585
+1720334815419,989,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5975,672,5,5,null,0,29993,436
+1720334845412,989,/-12,200,OK,Thread Group 1-5,text,true,,5975,672,5,5,https://jpetstore.aspectran.com/,989,0,436
+1720334840801,1684,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5981,672,5,5,null,0,29995,589
+1720334870796,1684,/-12,200,OK,Thread Group 1-3,text,true,,5981,672,5,5,https://jpetstore.aspectran.com/,1684,0,589
+1720334828981,3453,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,18418,3514,5,5,null,0,89996,424
+1720334858972,569,/account/signonForm-17,200,OK,Thread Group 1-1,text,true,,5681,795,5,5,https://jpetstore.aspectran.com/account/signonForm,569,0,0
+1720334889549,2226,/account/signon-18,200,OK,Thread Group 1-1,text,true,,6665,1898,5,5,https://jpetstore.aspectran.com/,1702,0,424
+1720334889549,1702,/account/signon-18-0,302,Found,Thread Group 1-1,,true,,595,987,5,5,https://jpetstore.aspectran.com/account/signon,1702,0,424
+1720334891251,524,/account/signon-18-1,200,OK,Thread Group 1-1,text,true,,6070,911,5,5,https://jpetstore.aspectran.com/,523,0,0
+1720334921771,658,/-19,200,OK,Thread Group 1-1,text,true,,6072,821,5,5,https://jpetstore.aspectran.com/,658,0,0
+1720334832884,3792,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,18433,3522,5,5,null,0,90010,458
+1720334862882,669,/account/signonForm-17,200,OK,Thread Group 1-2,text,true,,5688,797,5,5,https://jpetstore.aspectran.com/account/signonForm,669,0,0
+1720334893553,2211,/account/signon-18,200,OK,Thread Group 1-2,text,true,,6672,1902,5,5,https://jpetstore.aspectran.com/,1692,0,458
+1720334893553,1692,/account/signon-18-0,302,Found,Thread Group 1-2,,true,,601,989,5,5,https://jpetstore.aspectran.com/account/signon,1692,0,458
+1720334895244,520,/account/signon-18-1,200,OK,Thread Group 1-2,text,true,,6071,913,5,5,https://jpetstore.aspectran.com/,520,0,0
+1720334925772,912,/-19,200,OK,Thread Group 1-2,text,true,,6073,823,5,5,https://jpetstore.aspectran.com/,912,0,0
+1720334841690,3588,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,18436,3518,5,5,null,0,90007,397
+1720334871681,555,/account/signonForm-17,200,OK,Thread Group 1-4,text,true,,5693,796,5,5,https://jpetstore.aspectran.com/account/signonForm,555,0,0
+1720334902242,2230,/account/signon-18,200,OK,Thread Group 1-4,text,true,,6671,1900,5,5,https://jpetstore.aspectran.com/,1706,0,397
+1720334902242,1706,/account/signon-18-0,302,Found,Thread Group 1-4,,true,,597,988,5,5,https://jpetstore.aspectran.com/account/signon,1706,0,397
+1720334903949,523,/account/signon-18-1,200,OK,Thread Group 1-4,text,true,,6074,912,5,5,https://jpetstore.aspectran.com/,523,0,0
+1720334934483,803,/-19,200,OK,Thread Group 1-4,text,true,,6072,822,5,5,https://jpetstore.aspectran.com/,803,0,0
+1720334846402,4273,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,18428,3518,5,5,null,0,89989,618
+1720334876397,927,/account/signonForm-17,200,OK,Thread Group 1-5,text,true,,5694,796,5,5,https://jpetstore.aspectran.com/account/signonForm,927,0,0
+1720334907319,2495,/account/signon-18,200,OK,Thread Group 1-5,text,true,,6669,1900,5,5,https://jpetstore.aspectran.com/,1984,0,618
+1720334907319,1984,/account/signon-18-0,302,Found,Thread Group 1-5,,true,,589,988,5,5,https://jpetstore.aspectran.com/account/signon,1984,0,618
+1720334909303,511,/account/signon-18-1,200,OK,Thread Group 1-5,text,true,,6080,912,5,5,https://jpetstore.aspectran.com/,511,0,0
+1720334939812,851,/-19,200,OK,Thread Group 1-5,text,true,,6065,822,5,5,https://jpetstore.aspectran.com/,851,0,0
+1720334922430,1720,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5691,792,5,5,null,0,31002,413
+1720334953431,1720,/categories/FISH-25,200,OK,Thread Group 1-1,text,true,,5691,792,5,5,https://jpetstore.aspectran.com/categories/FISH,1720,0,413
+1720334926685,1559,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5724,794,5,5,null,0,31005,424
+1720334957689,1559,/categories/FISH-25,200,OK,Thread Group 1-2,text,true,,5724,794,5,5,https://jpetstore.aspectran.com/categories/FISH,1559,0,424
+1720334872480,3327,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,18409,3518,5,5,null,0,90007,441
+1720334902479,591,/account/signonForm-17,200,OK,Thread Group 1-3,text,true,,5685,796,5,5,https://jpetstore.aspectran.com/account/signonForm,591,0,0
+1720334933074,1574,/account/signon-18,200,OK,Thread Group 1-3,text,true,,6660,1900,5,5,https://jpetstore.aspectran.com/,1000,0,441
+1720334933074,1000,/account/signon-18-0,302,Found,Thread Group 1-3,,true,,591,988,5,5,https://jpetstore.aspectran.com/account/signon,1000,0,441
+1720334934074,574,/account/signon-18-1,200,OK,Thread Group 1-3,text,true,,6069,912,5,5,https://jpetstore.aspectran.com/,574,0,0
+1720334964652,1162,/-19,200,OK,Thread Group 1-3,text,true,,6064,822,5,5,https://jpetstore.aspectran.com/,1162,0,0
+1720334935287,1393,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5689,793,5,5,null,0,30994,455
+1720334966280,1393,/categories/FISH-25,200,OK,Thread Group 1-4,text,true,,5689,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1393,0,455
+1720334940664,1005,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5692,793,5,5,null,0,31011,417
+1720334971676,1005,/categories/FISH-25,200,OK,Thread Group 1-5,text,true,,5692,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1004,0,417
+1720334955152,774,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5763,809,5,5,null,0,31003,0
+1720334986154,774,/products/FI-SW-01-26,200,OK,Thread Group 1-1,text,true,,5763,809,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,774,0,0
+1720334959249,626,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5769,811,5,5,null,0,31000,0
+1720334990250,626,/products/FI-SW-01-26,200,OK,Thread Group 1-2,text,true,,5769,811,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,626,0,0
+1720334965815,1779,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5687,793,5,5,null,0,31005,515
+1720334996819,1779,/categories/FISH-25,200,OK,Thread Group 1-3,text,true,,5687,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1779,0,515
+1720334967674,935,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5811,810,5,5,null,0,31012,0
+1720334998685,935,/products/FI-SW-01-26,200,OK,Thread Group 1-4,text,true,,5811,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,935,0,0
+1720334972681,1084,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5772,810,5,5,null,0,31007,0
+1720335003687,1084,/products/FI-SW-01-26,200,OK,Thread Group 1-5,text,true,,5772,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,1084,0,0
+1720334998599,674,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5768,810,5,5,null,0,31002,0
+1720335029601,674,/products/FI-SW-01-26,200,OK,Thread Group 1-3,text,true,,5768,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,674,0,0
+1720334986929,2303,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12852,2439,5,5,null,0,62022,427
+1720335017943,1670,/cart/addItemToCart-29,200,OK,Thread Group 1-1,text,true,,6730,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,983,0,427
+1720335017943,983,/cart/addItemToCart-29-0,302,Found,Thread Group 1-1,,true,,602,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,983,0,427
+1720335018927,686,/cart/addItemToCart-29-1,200,OK,Thread Group 1-1,text,true,,6128,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,686,0,0
+1720335050621,633,/cart/viewCart-30,200,OK,Thread Group 1-1,text,true,,6122,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,633,0,0
+1720334990877,3124,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12843,2445,5,5,null,0,61998,441
+1720335021868,2455,/cart/addItemToCart-29,200,OK,Thread Group 1-2,text,true,,6725,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,1891,0,441
+1720335021868,1891,/cart/addItemToCart-29-0,302,Found,Thread Group 1-2,,true,,608,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1891,0,441
+1720335023760,563,/cart/addItemToCart-29-1,200,OK,Thread Group 1-2,text,true,,6117,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,562,0,0
+1720335055330,669,/cart/viewCart-30,200,OK,Thread Group 1-2,text,true,,6118,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,669,0,0
+1720334999621,3096,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12867,2442,5,5,null,0,62018,421
+1720335030629,2252,/cart/addItemToCart-29,200,OK,Thread Group 1-4,text,true,,6729,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1737,0,421
+1720335030629,1737,/cart/addItemToCart-29-0,302,Found,Thread Group 1-4,,true,,606,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1737,0,421
+1720335032366,515,/cart/addItemToCart-29-1,200,OK,Thread Group 1-4,text,true,,6123,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,515,0,0
+1720335063890,844,/cart/viewCart-30,200,OK,Thread Group 1-4,text,true,,6138,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,844,0,0
+1720335004772,3080,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,12861,2442,5,5,null,0,61993,404
+1720335035767,2222,/cart/addItemToCart-29,200,OK,Thread Group 1-5,text,true,,6736,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1718,0,404
+1720335035767,1718,/cart/addItemToCart-29-0,302,Found,Thread Group 1-5,,true,,610,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1718,0,404
+1720335037485,504,/cart/addItemToCart-29-1,200,OK,Thread Group 1-5,text,true,,6126,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,504,0,0
+1720335068987,858,/cart/viewCart-30,200,OK,Thread Group 1-5,text,true,,6125,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,858,0,0
+1720335051255,1506,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5751,805,5,5,null,0,31011,464
+1720335082266,1506,/categories/DOGS-31,200,OK,Thread Group 1-1,text,true,,5751,805,5,5,https://jpetstore.aspectran.com/categories/DOGS,1506,0,464
+1720335056000,1049,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5747,807,5,5,null,0,30999,445
+1720335086997,1049,/categories/DOGS-31,200,OK,Thread Group 1-2,text,true,,5747,807,5,5,https://jpetstore.aspectran.com/categories/DOGS,1049,0,445
+1720335030276,3469,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12850,2442,5,5,null,0,61999,499
+1720335061278,2543,/cart/addItemToCart-29,200,OK,Thread Group 1-3,text,true,,6736,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,2009,0,499
+1720335061278,2009,/cart/addItemToCart-29-0,302,Found,Thread Group 1-3,,true,,610,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,2009,0,499
+1720335063287,534,/cart/addItemToCart-29-1,200,OK,Thread Group 1-3,text,true,,6126,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,534,0,0
+1720335094816,926,/cart/viewCart-30,200,OK,Thread Group 1-3,text,true,,6114,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,926,0,0
+1720335064735,1760,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5745,806,5,5,null,0,30998,439
+1720335095733,1760,/categories/DOGS-31,200,OK,Thread Group 1-4,text,true,,5745,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1760,0,439
+1720335069845,1986,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5744,806,5,5,null,0,31001,493
+1720335100845,1986,/categories/DOGS-31,200,OK,Thread Group 1-5,text,true,,5744,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1986,0,493
+1720335083773,600,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5777,809,5,5,null,0,31000,0
+1720335114772,600,/products/K9-BD-01-34,200,OK,Thread Group 1-1,text,true,,5777,809,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,599,0,0
+1720335088047,592,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5780,811,5,5,null,0,30998,0
+1720335119045,592,/products/K9-BD-01-34,200,OK,Thread Group 1-2,text,true,,5780,811,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,592,0,0
+1720335095744,992,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5746,806,5,5,null,0,30993,401
+1720335126736,992,/categories/DOGS-31,200,OK,Thread Group 1-3,text,true,,5746,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,992,0,401
+1720335097493,957,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5781,810,5,5,null,0,31001,0
+1720335128494,957,/products/K9-BD-01-34,200,OK,Thread Group 1-4,text,true,,5781,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,957,0,0
+1720335102832,619,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5783,810,5,5,null,0,30995,0
+1720335133828,619,/products/K9-BD-01-34,200,OK,Thread Group 1-5,text,true,,5783,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,619,0,0
+1720335127729,689,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5779,810,5,5,null,0,30993,0
+1720335158721,689,/products/K9-BD-01-34,200,OK,Thread Group 1-3,text,true,,5779,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,689,0,0
+1720335115373,3157,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13021,2439,5,5,null,0,61999,409
+1720335146379,2465,/cart/addItemToCart-38,200,OK,Thread Group 1-1,text,true,,6807,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1903,0,409
+1720335146379,1903,/cart/addItemToCart-38-0,302,Found,Thread Group 1-1,,true,,604,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1903,0,409
+1720335148282,562,/cart/addItemToCart-38-1,200,OK,Thread Group 1-1,text,true,,6203,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,562,0,0
+1720335179837,692,/cart/viewCart-41,200,OK,Thread Group 1-1,text,true,,6214,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,692,0,0
+1720335119638,2722,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13014,2445,5,5,null,0,61992,428
+1720335150635,2197,/cart/addItemToCart-38,200,OK,Thread Group 1-2,text,true,,6808,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,1639,0,428
+1720335150635,1639,/cart/addItemToCart-38-0,302,Found,Thread Group 1-2,,true,,606,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1639,0,428
+1720335152274,558,/cart/addItemToCart-38-1,200,OK,Thread Group 1-2,text,true,,6202,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,558,0,0
+1720335183827,525,/cart/viewCart-41,200,OK,Thread Group 1-2,text,true,,6206,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,525,0,0
+1720335129452,2837,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13020,2442,5,5,null,0,62014,402
+1720335160454,2060,/cart/addItemToCart-38,200,OK,Thread Group 1-4,text,true,,6817,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1548,0,402
+1720335160454,1548,/cart/addItemToCart-38-0,302,Found,Thread Group 1-4,,true,,608,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1548,0,402
+1720335162002,512,/cart/addItemToCart-38-1,200,OK,Thread Group 1-4,text,true,,6209,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,512,0,0
+1720335193526,777,/cart/viewCart-41,200,OK,Thread Group 1-4,text,true,,6203,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,777,0,0
+1720335180529,1912,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,6173,808,5,5,null,0,30988,740
+1720335211517,1912,/order/newOrderForm-43,200,OK,Thread Group 1-1,text,true,,6173,808,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1912,0,740
+1720335184352,1754,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,6183,810,5,5,null,0,31009,513
+1720335215361,1754,/order/newOrderForm-43,200,OK,Thread Group 1-2,text,true,,6183,810,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1754,0,513
+1720335134447,20753,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13055,2442,5,5,null,0,62001,18479
+1720335165452,20200,/cart/addItemToCart-38,200,OK,Thread Group 1-5,text,true,,6820,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,19695,0,18479
+1720335165452,19695,/cart/addItemToCart-38-0,302,Found,Thread Group 1-5,,true,,614,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,19695,0,18479
+1720335185147,505,/cart/addItemToCart-38-1,200,OK,Thread Group 1-5,text,true,,6206,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,505,0,0
+1720335216646,553,/cart/viewCart-41,200,OK,Thread Group 1-5,text,true,,6235,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,553,0,0
+1720335159411,3167,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13041,2442,5,5,null,0,61996,450
+1720335190410,2187,/cart/addItemToCart-38,200,OK,Thread Group 1-3,text,true,,6811,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1670,0,450
+1720335190410,1670,/cart/addItemToCart-38-0,302,Found,Thread Group 1-3,,true,,604,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1670,0,450
+1720335192080,517,/cart/addItemToCart-38-1,200,OK,Thread Group 1-3,text,true,,6207,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,517,0,0
+1720335223593,980,/cart/viewCart-41,200,OK,Thread Group 1-3,text,true,,6230,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,980,0,0
+1720335194303,1832,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,6175,809,5,5,null,0,30998,470
+1720335225301,1832,/order/newOrderForm-43,200,OK,Thread Group 1-4,text,true,,6175,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1832,0,470
+1720335213430,749,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5986,1207,5,5,null,0,31004,0
+1720335244433,749,/order/newOrder-49,200,OK,Thread Group 1-1,text,true,,5986,1207,5,5,https://jpetstore.aspectran.com/order/newOrder,749,0,0
+1720335217115,784,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5946,1209,5,5,null,0,31002,0
+1720335248117,784,/order/newOrder-49,200,OK,Thread Group 1-2,text,true,,5946,1209,5,5,https://jpetstore.aspectran.com/order/newOrder,784,0,0
+1720335217200,1660,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,6172,809,5,5,null,0,31012,469
+1720335248212,1660,/order/newOrderForm-43,200,OK,Thread Group 1-5,text,true,,6172,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1659,0,469
+1720335224574,1819,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,6137,809,5,5,null,0,31011,460
+1720335255584,1819,/order/newOrderForm-43,200,OK,Thread Group 1-3,text,true,,6137,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1819,0,460
+1720335227133,806,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5946,1208,5,5,null,0,30996,0
+1720335258129,806,/order/newOrder-49,200,OK,Thread Group 1-4,text,true,,5946,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,806,0,0
+1720335249872,549,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5947,1208,5,5,null,0,31005,0
+1720335280876,549,/order/newOrder-49,200,OK,Thread Group 1-5,text,true,,5947,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,549,0,0
+1720335257404,581,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5994,1208,5,5,null,0,31009,0
+1720335288413,581,/order/newOrder-49,200,OK,Thread Group 1-3,text,true,,5994,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,581,0,0
+1720335245182,2541,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13242,2771,5,5,null,0,63996,504
+1720335277176,1567,/order/submitOrder-50,200,OK,Thread Group 1-1,text,true,,6957,1910,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30053&submitted=true,1020,0,504
+1720335277176,1020,/order/submitOrder-50-0,302,Found,Thread Group 1-1,,true,,643,959,5,5,https://jpetstore.aspectran.com/order/submitOrder,1020,0,504
+1720335278196,547,/order/submitOrder-50-1,200,OK,Thread Group 1-1,text,true,,6314,951,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30053&submitted=true,547,0,0
+1720335310744,974,/order/viewOrder-51,200,OK,Thread Group 1-1,text,true,,6285,861,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30053&submitted=true,974,0,0
+1720335248902,3149,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13235,2777,5,5,null,0,63986,462
+1720335280894,2511,/order/submitOrder-50,200,OK,Thread Group 1-2,text,true,,6957,1914,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30054&submitted=true,1965,0,462
+1720335280894,1965,/order/submitOrder-50-0,302,Found,Thread Group 1-2,,true,,639,961,5,5,https://jpetstore.aspectran.com/order/submitOrder,1965,0,462
+1720335282860,545,/order/submitOrder-50-1,200,OK,Thread Group 1-2,text,true,,6318,953,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30054&submitted=true,545,0,0
+1720335315398,638,/order/viewOrder-51,200,OK,Thread Group 1-2,text,true,,6278,863,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30054&submitted=true,638,0,0
+1720335258935,3636,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13181,2774,5,5,null,0,64000,539
+1720335290943,2608,/order/submitOrder-50,200,OK,Thread Group 1-4,text,true,,6909,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30055&submitted=true,1674,0,539
+1720335290943,1674,/order/submitOrder-50-0,302,Found,Thread Group 1-4,,true,,631,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,1674,0,539
+1720335292617,934,/order/submitOrder-50-1,200,OK,Thread Group 1-4,text,true,,6278,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30055&submitted=true,934,0,0
+1720335325541,1028,/order/viewOrder-51,200,OK,Thread Group 1-4,text,true,,6272,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30055&submitted=true,1028,0,0
+1720335281425,3802,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13212,2774,5,5,null,0,63994,594
+1720335313418,3026,/order/submitOrder-50,200,OK,Thread Group 1-5,text,true,,6904,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30056&submitted=true,1985,0,594
+1720335313418,1985,/order/submitOrder-50-0,302,Found,Thread Group 1-5,,true,,633,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,1985,0,594
+1720335315404,1040,/order/submitOrder-50-1,200,OK,Thread Group 1-5,text,true,,6271,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30056&submitted=true,1040,0,0
+1720335348446,776,/order/viewOrder-51,200,OK,Thread Group 1-5,text,true,,6308,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30056&submitted=true,776,0,0
+1720335288995,3934,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13236,2774,5,5,null,0,64006,473
+1720335320996,3139,/order/submitOrder-50,200,OK,Thread Group 1-3,text,true,,6915,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30057&submitted=true,2601,0,473
+1720335320996,2601,/order/submitOrder-50-0,302,Found,Thread Group 1-3,,true,,639,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,2601,0,473
+1720335323597,538,/order/submitOrder-50-1,200,OK,Thread Group 1-3,text,true,,6276,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30057&submitted=true,538,0,0
+1720335356140,795,/order/viewOrder-51,200,OK,Thread Group 1-3,text,true,,6321,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30057&submitted=true,795,0,0
+1720335311719,3112,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12515,2480,5,5,null,0,60000,581
+1720335341717,2511,/account/signoff-52,200,OK,Thread Group 1-1,text,true,,6572,1657,5,5,https://jpetstore.aspectran.com/,1949,0,581
+1720335341717,1949,/account/signoff-52-0,302,Found,Thread Group 1-1,,true,,597,836,5,5,https://jpetstore.aspectran.com/account/signoff,1949,0,581
+1720335343666,562,/account/signoff-52-1,200,OK,Thread Group 1-1,text,true,,5975,821,5,5,https://jpetstore.aspectran.com/,561,0,0
+1720335374230,601,/-53,200,OK,Thread Group 1-1,text,true,,5943,823,5,5,https://jpetstore.aspectran.com/,600,0,0
+1720335316037,2942,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12452,2482,5,5,null,0,60006,463
+1720335346039,2256,/account/signoff-52,200,OK,Thread Group 1-2,text,true,,6581,1661,5,5,https://jpetstore.aspectran.com/,1746,0,463
+1720335346039,1746,/account/signoff-52-0,302,Found,Thread Group 1-2,,true,,591,838,5,5,https://jpetstore.aspectran.com/account/signoff,1746,0,463
+1720335347785,510,/account/signoff-52-1,200,OK,Thread Group 1-2,text,true,,5990,823,5,5,https://jpetstore.aspectran.com/,510,0,0
+1720335378299,686,/-53,200,OK,Thread Group 1-2,text,true,,5871,821,5,5,https://jpetstore.aspectran.com/,686,0,0
+1720335326570,3160,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12497,2480,5,5,null,0,60020,465
+1720335356584,2249,/account/signoff-52,200,OK,Thread Group 1-4,text,true,,6562,1659,5,5,https://jpetstore.aspectran.com/,1636,0,465
+1720335356584,1636,/account/signoff-52-0,302,Found,Thread Group 1-4,,true,,589,837,5,5,https://jpetstore.aspectran.com/account/signoff,1636,0,465
+1720335358220,613,/account/signoff-52-1,200,OK,Thread Group 1-4,text,true,,5973,822,5,5,https://jpetstore.aspectran.com/,613,0,0
+1720335388840,911,/-53,200,OK,Thread Group 1-4,text,true,,5935,821,5,5,https://jpetstore.aspectran.com/,911,0,0
+1720335374831,1673,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5977,672,5,5,null,0,30011,505
+1720335404841,1673,/-12,200,OK,Thread Group 1-1,text,true,,5977,672,5,5,https://jpetstore.aspectran.com/,1673,0,505
+1720335378986,2079,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5967,672,5,5,null,0,30002,482
+1720335408988,2079,/-12,200,OK,Thread Group 1-2,text,true,,5967,672,5,5,https://jpetstore.aspectran.com/,2079,0,482
+1720335349222,3019,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,12515,2482,5,5,null,0,60016,419
+1720335379231,2247,/account/signoff-52,200,OK,Thread Group 1-5,text,true,,6638,1659,5,5,https://jpetstore.aspectran.com/,1710,0,419
+1720335379231,1710,/account/signoff-52-0,302,Found,Thread Group 1-5,,true,,601,837,5,5,https://jpetstore.aspectran.com/account/signoff,1710,0,419
+1720335380943,535,/account/signoff-52-1,200,OK,Thread Group 1-5,text,true,,6037,822,5,5,https://jpetstore.aspectran.com/,535,0,0
+1720335411485,772,/-53,200,OK,Thread Group 1-5,text,true,,5877,823,5,5,https://jpetstore.aspectran.com/,772,0,0
+1720335356935,4221,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12500,2481,5,5,null,0,60007,1506
+1720335386942,3687,/account/signoff-52,200,OK,Thread Group 1-3,text,true,,6632,1659,5,5,https://jpetstore.aspectran.com/,2810,0,1506
+1720335386942,2810,/account/signoff-52-0,302,Found,Thread Group 1-3,,true,,595,837,5,5,https://jpetstore.aspectran.com/account/signoff,2810,0,1506
+1720335389753,876,/account/signoff-52-1,200,OK,Thread Group 1-3,text,true,,6037,822,5,5,https://jpetstore.aspectran.com/,876,0,0
+1720335420629,534,/-53,200,OK,Thread Group 1-3,text,true,,5868,822,5,5,https://jpetstore.aspectran.com/,534,0,0
+1720335389752,1550,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5970,672,5,5,null,0,30010,469
+1720335419762,1550,/-12,200,OK,Thread Group 1-4,text,true,,5970,672,5,5,https://jpetstore.aspectran.com/,1550,0,469
+1720335412258,1600,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,6038,672,5,5,null,0,29991,450
+1720335442249,1600,/-12,200,OK,Thread Group 1-5,text,true,,6038,672,5,5,https://jpetstore.aspectran.com/,1600,0,450
+1720335421164,1913,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,6034,672,5,5,null,0,29998,488
+1720335451162,1913,/-12,200,OK,Thread Group 1-3,text,true,,6034,672,5,5,https://jpetstore.aspectran.com/,1913,0,488
+1720335406515,3770,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,18507,3514,5,5,null,0,90008,464
+1720335436506,575,/account/signonForm-17,200,OK,Thread Group 1-1,text,true,,5725,795,5,5,https://jpetstore.aspectran.com/account/signonForm,575,0,0
+1720335467086,2464,/account/signon-18,200,OK,Thread Group 1-1,text,true,,6661,1898,5,5,https://jpetstore.aspectran.com/,1943,0,464
+1720335467086,1943,/account/signon-18-0,302,Found,Thread Group 1-1,,true,,591,987,5,5,https://jpetstore.aspectran.com/account/signon,1943,0,464
+1720335469029,521,/account/signon-18-1,200,OK,Thread Group 1-1,text,true,,6070,911,5,5,https://jpetstore.aspectran.com/,521,0,0
+1720335499560,731,/-19,200,OK,Thread Group 1-1,text,true,,6121,821,5,5,https://jpetstore.aspectran.com/,731,0,0
+1720335411068,3556,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,18418,3514,5,5,null,0,90008,484
+1720335441064,798,/account/signonForm-17,200,OK,Thread Group 1-2,text,true,,5687,795,5,5,https://jpetstore.aspectran.com/account/signonForm,798,0,0
+1720335471862,2171,/account/signon-18,200,OK,Thread Group 1-2,text,true,,6663,1898,5,5,https://jpetstore.aspectran.com/,1652,0,484
+1720335471862,1652,/account/signon-18-0,302,Found,Thread Group 1-2,,true,,589,987,5,5,https://jpetstore.aspectran.com/account/signon,1652,0,484
+1720335473514,519,/account/signon-18-1,200,OK,Thread Group 1-2,text,true,,6074,911,5,5,https://jpetstore.aspectran.com/,519,0,0
+1720335504044,587,/-19,200,OK,Thread Group 1-2,text,true,,6068,821,5,5,https://jpetstore.aspectran.com/,587,0,0
+1720335421313,3260,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-4,,true,,18455,3518,5,5,null,0,90015,491
+1720335451320,541,/account/signonForm-17,200,OK,Thread Group 1-4,text,true,,5715,796,5,5,https://jpetstore.aspectran.com/account/signonForm,541,0,0
+1720335481862,2160,/account/signon-18,200,OK,Thread Group 1-4,text,true,,6673,1900,5,5,https://jpetstore.aspectran.com/,1552,0,491
+1720335481862,1552,/account/signon-18-0,302,Found,Thread Group 1-4,,true,,601,988,5,5,https://jpetstore.aspectran.com/account/signon,1552,0,491
+1720335483414,608,/account/signon-18-1,200,OK,Thread Group 1-4,text,true,,6072,912,5,5,https://jpetstore.aspectran.com/,608,0,0
+1720335514028,559,/-19,200,OK,Thread Group 1-4,text,true,,6067,822,5,5,https://jpetstore.aspectran.com/,559,0,0
+1720335500292,1867,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5731,792,5,5,null,0,30999,458
+1720335531290,1867,/categories/FISH-25,200,OK,Thread Group 1-1,text,true,,5731,792,5,5,https://jpetstore.aspectran.com/categories/FISH,1867,0,458
+1720335443850,3381,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-5,,true,,18483,3522,5,5,null,0,89991,458
+1720335473842,513,/account/signonForm-17,200,OK,Thread Group 1-5,text,true,,5688,797,5,5,https://jpetstore.aspectran.com/account/signonForm,513,0,0
+1720335504360,2080,/account/signon-18,200,OK,Thread Group 1-5,text,true,,6672,1902,5,5,https://jpetstore.aspectran.com/,1556,0,458
+1720335504360,1556,/account/signon-18-0,302,Found,Thread Group 1-5,,true,,597,989,5,5,https://jpetstore.aspectran.com/account/signon,1556,0,458
+1720335505917,523,/account/signon-18-1,200,OK,Thread Group 1-5,text,true,,6075,913,5,5,https://jpetstore.aspectran.com/,523,0,0
+1720335536433,788,/-19,200,OK,Thread Group 1-5,text,true,,6123,823,5,5,https://jpetstore.aspectran.com/,788,0,0
+1720335504632,1633,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5694,792,5,5,null,0,31012,514
+1720335535643,1633,/categories/FISH-25,200,OK,Thread Group 1-2,text,true,,5694,792,5,5,https://jpetstore.aspectran.com/categories/FISH,1633,0,514
+1720335453075,3954,SC1_TR02_Jpet_Store_Login,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,,true,,18456,3514,5,5,null,0,90015,544
+1720335483065,571,/account/signonForm-17,200,OK,Thread Group 1-3,text,true,,5694,795,5,5,https://jpetstore.aspectran.com/account/signonForm,571,0,0
+1720335513649,2347,/account/signon-18,200,OK,Thread Group 1-3,text,true,,6653,1898,5,5,https://jpetstore.aspectran.com/,1717,0,544
+1720335513649,1717,/account/signon-18-0,302,Found,Thread Group 1-3,,true,,587,987,5,5,https://jpetstore.aspectran.com/account/signon,1717,0,544
+1720335515366,630,/account/signon-18-1,200,OK,Thread Group 1-3,text,true,,6066,911,5,5,https://jpetstore.aspectran.com/,630,0,0
+1720335546008,1036,/-19,200,OK,Thread Group 1-3,text,true,,6109,821,5,5,https://jpetstore.aspectran.com/,1036,0,0
+1720335514588,1587,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5700,793,5,5,null,0,31010,440
+1720335545597,1587,/categories/FISH-25,200,OK,Thread Group 1-4,text,true,,5700,793,5,5,https://jpetstore.aspectran.com/categories/FISH,1587,0,440
+1720335533158,566,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5768,809,5,5,null,0,31002,0
+1720335564162,566,/products/FI-SW-01-26,200,OK,Thread Group 1-1,text,true,,5768,809,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,566,0,0
+1720335537276,563,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5777,809,5,5,null,0,31001,0
+1720335568277,563,/products/FI-SW-01-26,200,OK,Thread Group 1-2,text,true,,5777,809,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,563,0,0
+1720335537221,1999,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5695,794,5,5,null,0,30992,451
+1720335568213,1999,/categories/FISH-25,200,OK,Thread Group 1-5,text,true,,5695,794,5,5,https://jpetstore.aspectran.com/categories/FISH,1999,0,451
+1720335547185,602,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5780,810,5,5,null,0,31004,0
+1720335578188,602,/products/FI-SW-01-26,200,OK,Thread Group 1-4,text,true,,5780,810,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,601,0,0
+1720335547044,930,SC1_TR03_Jpet_Store_Click on Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5721,792,5,5,null,0,31002,398
+1720335578045,930,/categories/FISH-25,200,OK,Thread Group 1-3,text,true,,5721,792,5,5,https://jpetstore.aspectran.com/categories/FISH,929,0,398
+1720335570213,678,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5767,811,5,5,null,0,30992,0
+1720335601204,678,/products/FI-SW-01-26,200,OK,Thread Group 1-5,text,true,,5767,811,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,678,0,0
+1720335578975,664,SC1_TR04_Jpet_Store_Click onAngel Fish,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5779,809,5,5,null,0,30986,0
+1720335609962,664,/products/FI-SW-01-26,200,OK,Thread Group 1-3,text,true,,5779,809,5,5,https://jpetstore.aspectran.com/products/FI-SW-01,664,0,0
+1720335564728,3051,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12856,2439,5,5,null,0,62009,409
+1720335595726,2125,/cart/addItemToCart-29,200,OK,Thread Group 1-1,text,true,,6730,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1593,0,409
+1720335595726,1593,/cart/addItemToCart-29-0,302,Found,Thread Group 1-1,,true,,616,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1593,0,409
+1720335597319,532,/cart/addItemToCart-29-1,200,OK,Thread Group 1-1,text,true,,6114,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,532,0,0
+1720335628861,926,/cart/viewCart-30,200,OK,Thread Group 1-1,text,true,,6126,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,926,0,0
+1720335568841,2713,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12841,2439,5,5,null,0,61993,429
+1720335599829,2124,/cart/addItemToCart-29,200,OK,Thread Group 1-2,text,true,,6723,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1601,0,429
+1720335599829,1601,/cart/addItemToCart-29-0,302,Found,Thread Group 1-2,,true,,602,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1601,0,429
+1720335601430,523,/cart/addItemToCart-29-1,200,OK,Thread Group 1-2,text,true,,6121,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,523,0,0
+1720335632958,589,/cart/viewCart-30,200,OK,Thread Group 1-2,text,true,,6118,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,589,0,0
+1720335578790,2764,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12846,2442,5,5,null,0,62013,524
+1720335609804,2158,/cart/addItemToCart-29,200,OK,Thread Group 1-4,text,true,,6722,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1626,0,524
+1720335609804,1626,/cart/addItemToCart-29-0,302,Found,Thread Group 1-4,,true,,604,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1626,0,524
+1720335611430,532,/cart/addItemToCart-29-1,200,OK,Thread Group 1-4,text,true,,6118,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,532,0,0
+1720335642962,606,/cart/viewCart-30,200,OK,Thread Group 1-4,text,true,,6124,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,606,0,0
+1720335629788,1759,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5744,805,5,5,null,0,30995,384
+1720335660784,1759,/categories/DOGS-31,200,OK,Thread Group 1-1,text,true,,5744,805,5,5,https://jpetstore.aspectran.com/categories/DOGS,1759,0,384
+1720335633548,1721,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5784,805,5,5,null,0,31003,514
+1720335664551,1721,/categories/DOGS-31,200,OK,Thread Group 1-2,text,true,,5784,805,5,5,https://jpetstore.aspectran.com/categories/DOGS,1721,0,514
+1720335601883,2584,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,12876,2445,5,5,null,0,62008,434
+1720335632880,2015,/cart/addItemToCart-29,200,OK,Thread Group 1-5,text,true,,6726,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,1503,0,434
+1720335632880,1503,/cart/addItemToCart-29-0,302,Found,Thread Group 1-5,,true,,608,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1503,0,434
+1720335634383,512,/cart/addItemToCart-29-1,200,OK,Thread Group 1-5,text,true,,6118,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,512,0,0
+1720335665906,569,/cart/viewCart-30,200,OK,Thread Group 1-5,text,true,,6150,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,569,0,0
+1720335610627,2644,SC1_TR05_Jpet_Store_Click Add to Cart Large Angel Fish,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12849,2439,5,5,null,0,62012,472
+1720335641632,2089,/cart/addItemToCart-29,200,OK,Thread Group 1-3,text,true,,6717,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1562,0,472
+1720335641632,1562,/cart/addItemToCart-29-0,302,Found,Thread Group 1-3,,true,,602,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-1,1562,0,472
+1720335643195,526,/cart/addItemToCart-29-1,200,OK,Thread Group 1-3,text,true,,6115,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,526,0,0
+1720335674727,555,/cart/viewCart-30,200,OK,Thread Group 1-3,text,true,,6132,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,555,0,0
+1720335643569,1956,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5751,806,5,5,null,0,30999,449
+1720335674568,1956,/categories/DOGS-31,200,OK,Thread Group 1-4,text,true,,5751,806,5,5,https://jpetstore.aspectran.com/categories/DOGS,1956,0,449
+1720335662543,677,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5781,809,5,5,null,0,31000,0
+1720335693541,677,/products/K9-BD-01-34,200,OK,Thread Group 1-1,text,true,,5781,809,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,677,0,0
+1720335666272,563,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5779,809,5,5,null,0,31004,0
+1720335697275,563,/products/K9-BD-01-34,200,OK,Thread Group 1-2,text,true,,5779,809,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,563,0,0
+1720335675283,1127,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5748,805,5,5,null,0,30999,409
+1720335706281,1127,/categories/DOGS-31,200,OK,Thread Group 1-3,text,true,,5748,805,5,5,https://jpetstore.aspectran.com/categories/DOGS,1127,0,409
+1720335676524,936,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5803,810,5,5,null,0,30992,0
+1720335707516,936,/products/K9-BD-01-34,200,OK,Thread Group 1-4,text,true,,5803,810,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,935,0,0
+1720335666581,20500,SC1_TR06_Jpet_Store_Click on Dogs,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5764,807,5,5,null,0,30997,19103
+1720335697576,20500,/categories/DOGS-31,200,OK,Thread Group 1-5,text,true,,5764,807,5,5,https://jpetstore.aspectran.com/categories/DOGS,20500,0,19103
+1720335707409,608,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5814,809,5,5,null,0,31010,0
+1720335738418,608,/products/K9-BD-01-34,200,OK,Thread Group 1-3,text,true,,5814,809,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,608,0,0
+1720335718077,591,SC1_TR07_Jpet_Store_Click on BullDog,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5783,811,5,5,null,0,31008,0
+1720335749084,591,/products/K9-BD-01-34,200,OK,Thread Group 1-5,text,true,,5783,811,5,5,https://jpetstore.aspectran.com/products/K9-BD-01,591,0,0
+1720335694219,2962,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13051,2439,5,5,null,0,62001,422
+1720335725216,2393,/cart/addItemToCart-38,200,OK,Thread Group 1-1,text,true,,6841,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1874,0,422
+1720335725216,1874,/cart/addItemToCart-38-0,302,Found,Thread Group 1-1,,true,,606,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1874,0,422
+1720335727090,519,/cart/addItemToCart-38-1,200,OK,Thread Group 1-1,text,true,,6235,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,518,0,0
+1720335758612,569,/cart/viewCart-41,200,OK,Thread Group 1-1,text,true,,6210,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,569,0,0
+1720335697839,2542,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13037,2439,5,5,null,0,62000,474
+1720335728842,1986,/cart/addItemToCart-38,200,OK,Thread Group 1-2,text,true,,6804,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1492,0,474
+1720335728842,1492,/cart/addItemToCart-38-0,302,Found,Thread Group 1-2,,true,,604,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1492,0,474
+1720335730335,493,/cart/addItemToCart-38-1,200,OK,Thread Group 1-2,text,true,,6200,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,493,0,0
+1720335761825,556,/cart/viewCart-41,200,OK,Thread Group 1-2,text,true,,6233,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,556,0,0
+1720335708453,2699,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13052,2442,5,5,null,0,61998,419
+1720335739445,1852,/cart/addItemToCart-38,200,OK,Thread Group 1-4,text,true,,6813,1634,5,5,https://jpetstore.aspectran.com/cart/viewCart,1341,0,419
+1720335739445,1341,/cart/addItemToCart-38-0,302,Found,Thread Group 1-4,,true,,608,826,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1341,0,419
+1720335740786,511,/cart/addItemToCart-38-1,200,OK,Thread Group 1-4,text,true,,6205,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,511,0,0
+1720335772301,847,/cart/viewCart-41,200,OK,Thread Group 1-4,text,true,,6239,808,5,5,https://jpetstore.aspectran.com/cart/viewCart,847,0,0
+1720335759181,1798,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,6136,808,5,5,null,0,31011,417
+1720335790193,1798,/order/newOrderForm-43,200,OK,Thread Group 1-1,text,true,,6136,808,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1798,0,417
+1720335739027,3113,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13038,2439,5,5,null,0,62004,436
+1720335770024,2205,/cart/addItemToCart-38,200,OK,Thread Group 1-3,text,true,,6839,1632,5,5,https://jpetstore.aspectran.com/cart/viewCart,1687,0,436
+1720335770024,1687,/cart/addItemToCart-38-0,302,Found,Thread Group 1-3,,true,,606,825,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1687,0,436
+1720335771711,518,/cart/addItemToCart-38-1,200,OK,Thread Group 1-3,text,true,,6233,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,518,0,0
+1720335803236,908,/cart/viewCart-41,200,OK,Thread Group 1-3,text,true,,6199,807,5,5,https://jpetstore.aspectran.com/cart/viewCart,908,0,0
+1720335773149,1832,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,6133,809,5,5,null,0,31003,409
+1720335804153,1832,/order/newOrderForm-43,200,OK,Thread Group 1-4,text,true,,6133,809,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1831,0,409
+1720335762382,20397,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,6132,808,5,5,null,0,31011,18940
+1720335793392,20397,/order/newOrderForm-43,200,OK,Thread Group 1-2,text,true,,6132,808,5,5,https://jpetstore.aspectran.com/order/newOrderForm,20397,0,18940
+1720335749676,3661,SC1_TR08_Jpet_Store_Click Add to Cart Male Adult BullDog,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13018,2445,5,5,null,0,62001,447
+1720335780677,2724,/cart/addItemToCart-38,200,OK,Thread Group 1-5,text,true,,6813,1636,5,5,https://jpetstore.aspectran.com/cart/viewCart,1707,0,447
+1720335780677,1707,/cart/addItemToCart-38-0,302,Found,Thread Group 1-5,,true,,610,827,5,5,https://jpetstore.aspectran.com/cart/addItemToCart?itemId=EST-6,1707,0,447
+1720335782383,1018,/cart/addItemToCart-38-1,200,OK,Thread Group 1-5,text,true,,6203,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,1018,0,0
+1720335814402,937,/cart/viewCart-41,200,OK,Thread Group 1-5,text,true,,6205,809,5,5,https://jpetstore.aspectran.com/cart/viewCart,936,0,0
+1720335791991,981,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5944,1207,5,5,null,0,30994,0
+1720335822985,981,/order/newOrder-49,200,OK,Thread Group 1-1,text,true,,5944,1207,5,5,https://jpetstore.aspectran.com/order/newOrder,981,0,0
+1720335804144,1953,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,6133,808,5,5,null,0,30997,851
+1720335835141,1953,/order/newOrderForm-43,200,OK,Thread Group 1-3,text,true,,6133,808,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1952,0,851
+1720335805985,622,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5941,1208,5,5,null,0,30990,0
+1720335836975,622,/order/newOrder-49,200,OK,Thread Group 1-4,text,true,,5941,1208,5,5,https://jpetstore.aspectran.com/order/newOrder,622,0,0
+1720335813791,623,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5944,1207,5,5,null,0,30998,0
+1720335844790,623,/order/newOrder-49,200,OK,Thread Group 1-2,text,true,,5944,1207,5,5,https://jpetstore.aspectran.com/order/newOrder,623,0,0
+1720335815339,1975,SC1_TR09_Jpet_Store_Proceed to Checkout,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,6137,810,5,5,null,0,30999,434
+1720335846338,1975,/order/newOrderForm-43,200,OK,Thread Group 1-5,text,true,,6137,810,5,5,https://jpetstore.aspectran.com/order/newOrderForm,1974,0,434
+1720335837094,577,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,5940,1207,5,5,null,0,30998,0
+1720335868093,577,/order/newOrder-49,200,OK,Thread Group 1-3,text,true,,5940,1207,5,5,https://jpetstore.aspectran.com/order/newOrder,577,0,0
+1720335848313,598,SC1_TR10_Jpet_Store_Enter Payment Details and Billing Address and Click Continue,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,5981,1209,5,5,null,0,31000,0
+1720335879312,598,/order/newOrder-49,200,OK,Thread Group 1-5,text,true,,5981,1209,5,5,https://jpetstore.aspectran.com/order/newOrder,598,0,0
+1720335823967,3270,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,13183,2771,5,5,null,0,64007,501
+1720335855971,2216,/order/submitOrder-50,200,OK,Thread Group 1-1,text,true,,6909,1910,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30058&submitted=true,1660,0,501
+1720335855971,1660,/order/submitOrder-50-0,302,Found,Thread Group 1-1,,true,,635,959,5,5,https://jpetstore.aspectran.com/order/submitOrder,1660,0,501
+1720335857631,556,/order/submitOrder-50-1,200,OK,Thread Group 1-1,text,true,,6274,951,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30058&submitted=true,555,0,0
+1720335890190,1054,/order/viewOrder-51,200,OK,Thread Group 1-1,text,true,,6274,861,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30058&submitted=true,1054,0,0
+1720335837598,3279,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,13198,2774,5,5,null,0,64009,433
+1720335869604,2310,/order/submitOrder-50,200,OK,Thread Group 1-4,text,true,,6919,1912,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30059&submitted=true,1462,0,433
+1720335869604,1462,/order/submitOrder-50-0,302,Found,Thread Group 1-4,,true,,639,960,5,5,https://jpetstore.aspectran.com/order/submitOrder,1462,0,433
+1720335871066,848,/order/submitOrder-50-1,200,OK,Thread Group 1-4,text,true,,6280,952,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30059&submitted=true,848,0,0
+1720335903917,969,/order/viewOrder-51,200,OK,Thread Group 1-4,text,true,,6279,862,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30059&submitted=true,968,0,0
+1720335845413,3408,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,13189,2771,5,5,null,0,64008,457
+1720335877414,2470,/order/submitOrder-50,200,OK,Thread Group 1-2,text,true,,6922,1910,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30060&submitted=true,1842,0,457
+1720335877414,1842,/order/submitOrder-50-0,302,Found,Thread Group 1-2,,true,,639,959,5,5,https://jpetstore.aspectran.com/order/submitOrder,1842,0,457
+1720335879257,627,/order/submitOrder-50-1,200,OK,Thread Group 1-2,text,true,,6283,951,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30060&submitted=true,626,0,0
+1720335911890,938,/order/viewOrder-51,200,OK,Thread Group 1-2,text,true,,6267,861,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30060&submitted=true,938,0,0
+1720335868670,3005,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,13194,2771,5,5,null,0,63991,450
+1720335900669,2395,/order/submitOrder-50,200,OK,Thread Group 1-3,text,true,,6921,1910,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30061&submitted=true,1731,0,450
+1720335900669,1731,/order/submitOrder-50-0,302,Found,Thread Group 1-3,,true,,641,959,5,5,https://jpetstore.aspectran.com/order/submitOrder,1731,0,450
+1720335902399,665,/order/submitOrder-50-1,200,OK,Thread Group 1-3,text,true,,6280,951,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30061&submitted=true,665,0,0
+1720335935055,610,/order/viewOrder-51,200,OK,Thread Group 1-3,text,true,,6273,861,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30061&submitted=true,610,0,0
+1720335891246,3069,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,12562,2480,5,5,null,0,59992,475
+1720335921243,2506,/account/signoff-52,200,OK,Thread Group 1-1,text,true,,6623,1657,5,5,https://jpetstore.aspectran.com/,1965,0,475
+1720335921243,1965,/account/signoff-52-0,302,Found,Thread Group 1-1,,true,,591,836,5,5,https://jpetstore.aspectran.com/account/signoff,1965,0,475
+1720335923208,541,/account/signoff-52-1,200,OK,Thread Group 1-1,text,true,,6032,821,5,5,https://jpetstore.aspectran.com/,541,0,0
+1720335953743,563,/-53,200,OK,Thread Group 1-1,text,true,,5939,823,5,5,https://jpetstore.aspectran.com/,562,0,0
+1720335879911,21212,SC1_TR11_Jpet_Store_Confirm Info and Continue,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-5,,true,,13186,2777,5,5,null,0,64011,18470
+1720335911905,20406,/order/submitOrder-50,200,OK,Thread Group 1-5,text,true,,6908,1914,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30062&submitted=true,19767,0,18470
+1720335911905,19767,/order/submitOrder-50-0,302,Found,Thread Group 1-5,,true,,641,961,5,5,https://jpetstore.aspectran.com/order/submitOrder,19767,0,18470
+1720335931673,638,/order/submitOrder-50-1,200,OK,Thread Group 1-5,text,true,,6267,953,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30062&submitted=true,638,0,0
+1720335964329,806,/order/viewOrder-51,200,OK,Thread Group 1-5,text,true,,6278,863,5,5,https://jpetstore.aspectran.com/order/viewOrder?orderId=30062&submitted=true,806,0,0
+1720335904886,3053,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-4,,true,,12507,2481,5,5,null,0,60008,452
+1720335934896,2217,/account/signoff-52,200,OK,Thread Group 1-4,text,true,,6568,1659,5,5,https://jpetstore.aspectran.com/,1689,0,452
+1720335934896,1689,/account/signoff-52-0,302,Found,Thread Group 1-4,,true,,597,837,5,5,https://jpetstore.aspectran.com/account/signoff,1689,0,452
+1720335936585,528,/account/signoff-52-1,200,OK,Thread Group 1-4,text,true,,5971,822,5,5,https://jpetstore.aspectran.com/,528,0,0
+1720335967110,836,/-53,200,OK,Thread Group 1-4,text,true,,5939,822,5,5,https://jpetstore.aspectran.com/,836,0,0
+1720335912829,3004,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-2,,true,,12439,2480,5,5,null,0,60003,388
+1720335942840,2368,/account/signoff-52,200,OK,Thread Group 1-2,text,true,,6563,1657,5,5,https://jpetstore.aspectran.com/,1551,0,388
+1720335942840,1551,/account/signoff-52-0,302,Found,Thread Group 1-2,,true,,589,836,5,5,https://jpetstore.aspectran.com/account/signoff,1551,0,388
+1720335944391,817,/account/signoff-52-1,200,OK,Thread Group 1-2,text,true,,5974,821,5,5,https://jpetstore.aspectran.com/,816,0,0
+1720335975199,636,/-53,200,OK,Thread Group 1-2,text,true,,5876,823,5,5,https://jpetstore.aspectran.com/,636,0,0
+1720335954307,1431,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5970,672,5,5,null,0,30005,396
+1720335984312,1431,/-12,200,OK,Thread Group 1-1,text,true,,5970,672,5,5,https://jpetstore.aspectran.com/,1431,0,396
+1720335965136,31711,SC1_TR12_Jpet_Store_SignOut,200,,Thread Group 1-5,,true,,6563,1661,5,5,null,0,0,0
+1720335995148,1698,/account/signoff-52,200,OK,Thread Group 1-5,text,true,,6563,1661,5,5,https://jpetstore.aspectran.com/,1156,0,464
+1720335995148,1156,/account/signoff-52-0,302,Found,Thread Group 1-5,,true,,591,838,5,5,https://jpetstore.aspectran.com/account/signoff,1156,0,464
+1720335996304,542,/account/signoff-52-1,200,OK,Thread Group 1-5,text,true,,5972,823,5,5,https://jpetstore.aspectran.com/,542,0,0
+1720335967947,1742,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,5989,672,4,4,null,0,29998,413
+1720335997944,1742,/-12,200,OK,Thread Group 1-4,text,true,,5989,672,4,4,https://jpetstore.aspectran.com/,1742,0,413
+1720335999687,0,SC1_TR02_Jpet_Store_Login,,,Thread Group 1-4,,true,,0,0,4,4,null,0,0,0
+1720335975836,1848,SC1_TR01_Jpet_Store_Launch,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,5973,672,3,3,null,0,30011,489
+1720336005848,1848,/-12,200,OK,Thread Group 1-2,text,true,,5973,672,3,3,https://jpetstore.aspectran.com/,1848,0,489
+1720336007696,0,SC1_TR02_Jpet_Store_Login,,,Thread Group 1-2,,true,,0,0,3,3,null,0,0,0
+1720335935665,20573,SC1_TR12_Jpet_Store_SignOut,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-3,,true,,12440,2480,2,2,null,0,60015,18466
+1720335965671,20023,/account/signoff-52,200,OK,Thread Group 1-3,text,true,,6555,1657,5,5,https://jpetstore.aspectran.com/,19496,0,18466
+1720335965671,19496,/account/signoff-52-0,302,Found,Thread Group 1-3,,true,,587,836,5,5,https://jpetstore.aspectran.com/account/signoff,19496,0,18466
+1720335985168,526,/account/signoff-52-1,200,OK,Thread Group 1-3,text,true,,5968,821,5,5,https://jpetstore.aspectran.com/,526,0,0
+1720336015703,550,/-53,200,OK,Thread Group 1-3,text,true,,5885,823,2,2,https://jpetstore.aspectran.com/,550,0,0
+1720336016253,0,SC1_TR01_Jpet_Store_Launch,,,Thread Group 1-3,,true,,0,0,2,2,null,0,0,0
+1720335985744,30527,SC1_TR02_Jpet_Store_Login,200,,Thread Group 1-1,,true,,5683,796,1,1,null,0,0,0
+1720336015749,521,/account/signonForm-17,200,OK,Thread Group 1-1,text,true,,5683,796,1,1,https://jpetstore.aspectran.com/account/signonForm,521,0,0
