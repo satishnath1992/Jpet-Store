@@ -1,6 +1,7 @@
 
 # Jpet Store
 
+<img width="944" alt="Title Image" src="https://github.com/user-attachments/assets/f9e0553b-1c3c-49f9-bf7e-5b5b28a1467c">
 
 Jpet Store is an online websitr in the US. Where people can shop their favouritre pets in the website from comfort of their home and the pets will be delivered to their adresses.
 There are 5 different category of pets are available in the website like Fish,Dogs,Reptiles,Cats and Birds.
